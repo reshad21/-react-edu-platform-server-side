@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 app.use(cors());
 
-const Port = process.env.Port || 5000;
+const port = process.env.PORT || 5000;
 
 const productsCollection = require("./Data/categories.json");
 
@@ -32,9 +32,9 @@ app.get('/category/:name', (req, res) => {
 })
 
 
-app.listen(Port, () => {
+app.listen(port, () => {
 
-    console.log("server is running", Port);
+    console.log("server is running", port);
 
 })
 
