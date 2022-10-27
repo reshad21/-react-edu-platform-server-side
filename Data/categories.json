@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "name": "Web design",
+      "photo": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYiUyMGRlc2lnbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Details":"Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization."
+    },
+    {
+      "id": "2",
+      "name": "Digital Marketing",
+      "photo": "https://images.unsplash.com/photo-1513530534585-c7b1394c6d51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGRpZ2l0YWwlMjBtYXJrZXRpbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "Details":"Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.Digital marketing is a means of advertising and selling products through the internet, mobile devices, social media, search engines, display advertising"
+    },
+    {
+      "id": "3",
+      "name": "Hacking",
+      "photo": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFja2luZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Details":"A hacker is a person skilled in information technology who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means. Though the term hacker has become associated in popular culture with a security hacker – someone who utilizes their technical know-how of bugs or exploits to break into computer systems and access data which would otherwise be inaccessible to them – hacking can also be utilized by legitimate figures in legal situations"
+    },
+    {
+      "id": "4",
+      "name": "Grapics Design",
+      "photo": "https://images.unsplash.com/photo-1493421419110-74f4e85ba126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdyYXBpY3MlMjBkZXNpZ258ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "Details":"Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    },
+    {
+      "id": "5",
+      "name": "Machine Learning",
+      "photo": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60xzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "Details":"Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.Create production-grade machine learning models on any device with TensorFlow by Google. TensorFlow is an E2E platform that makes it easy for you to build and deploy ML models. "
+    },
+    {
+      "id": "6",
+      "name": "CPA Marketing",
+      "photo": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNwYSUyMG1hcmtldGluZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Details": "Cost per action, also sometimes misconstrued in marketing environments as cost per acquisition, is an online advertising measurement and pricing model referring to a specified action, for example, a sale, click, or form submit.Direct response advertisers often consider CPA the optimal way to buy online advertising, as an advertiser only considers the measured CPA goal as the important outcome of their activity The desired action to be performed is determined by the advertiser."
+    }
+  ]
